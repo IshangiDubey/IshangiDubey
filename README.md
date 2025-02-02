@@ -1,5 +1,6 @@
  <center>
-    <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" style="max-width: 70%;height: 50%; display: inline-block;" alt="tcode"></center>
+    <img align="center" width="1000" alt="top" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
+ </center>
 
 
 <h1 align="center">Hi 👋, I'm Ishangi Dubey</h1>
